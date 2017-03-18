@@ -9,7 +9,7 @@ int R = 500; // for song tempo of 1/4 note
 
 // the Array of the notes 
 int melody[]={NOTE_D4, NOTE_PAUSE, NOTE_F4, NOTE_PAUSE, NOTE_G4, NOTE_PAUSE, NOTE_D4, 
-              NOTE_PAUSE, NOTE_F4, NOTE_PAUSE, NOTE_F5, NOTE_G4, NOTE_PAUSE,
+              NOTE_PAUSE, NOTE_F4, NOTE_PAUSE, 430, NOTE_G4, NOTE_PAUSE,
               NOTE_D4, NOTE_PAUSE, NOTE_F4, NOTE_PAUSE, NOTE_G4, NOTE_PAUSE, NOTE_D4,
               NOTE_PAUSE, NOTE_D4};
 
